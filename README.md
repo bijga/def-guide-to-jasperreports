@@ -1,4 +1,6 @@
 # Apress Source Code
+https://zetcode.com/jasperreports/csv/
+https://www.novell.com/documentation/zenworks-2020-update-2/pdfdoc/Jaspersoft-Studio-User-Guide/Jaspersoft-Studio-User-Guide.pdf
 
 This repository accompanies [*The Definitive Guide to JasperReports*](http://www.apress.com/9781590599273) by Teodor Danciu and Lucian Chirita (Apress, 2007).
 
